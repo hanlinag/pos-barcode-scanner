@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UCSMPOS</string>
+    <string name="title_activity_qr">QRActivity</string>
+</resources>
